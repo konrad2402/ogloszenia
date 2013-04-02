@@ -24,16 +24,16 @@ Administrator ma możliwość usunięcia ogłoszenia dowolnego użytkownika, je�
 
 #Podział pracy w grupie
 * Konrad Mieszała:
-** przygotowywanie raportów i reprezentowanie grupy na zajęciach
-** testowanie aplikacji
-** zrobienie bootstrap, css
+	* przygotowywanie raportów i reprezentowanie grupy na zajęciach
+	* testowanie aplikacji
+	* zrobienie bootstrap, css
 * Bartek Winsławski:
-** zrobienie logowania z Facebook-iem
-** testowanie aplikacji
+	* zrobienie logowania z Facebook-iem
+	* testowanie aplikacji
 * Marek Skiba:
-** zrobienie połączenia z bazą danych
-** testowanie aplikacji
-** wspólna praca nad funkcjonowaniem aplikacji
+	* zrobienie połączenia z bazą danych
+	* testowanie aplikacji
+	* wspólna praca nad funkcjonowaniem aplikacji
 
 #Harmonogram
 13.03.2013 - przygotowanie dokumentacji
