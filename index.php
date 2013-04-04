@@ -19,4 +19,5 @@ try {
 }
 
 include 'include/footer.html';
+
 ?>
